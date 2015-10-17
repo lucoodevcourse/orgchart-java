@@ -1,5 +1,3 @@
-syntax: glob
-
 # built application files
 *.apk
 *.ap_
@@ -34,6 +32,6 @@ local.properties
 
 # Gradle
 .gradle/
-gradle/
-gradlew
-gradlew.bat
+
+# Mac files
+*.DS_Store
