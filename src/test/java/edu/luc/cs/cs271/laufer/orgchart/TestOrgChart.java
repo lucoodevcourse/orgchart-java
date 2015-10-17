@@ -1,6 +1,6 @@
 package edu.luc.cs.cs271.laufer.orgchart;
 
-import static junit.framework.Assert.*;
+import static org.junit.Assert.*;
 
 import org.junit.Test;
 
