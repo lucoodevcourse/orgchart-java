@@ -9,5 +9,5 @@ dependencies {
 }
 
 tasks.withType(JavaCompile) { 
-    options.compilerArgs << << "-Xlint:all" 
+    options.compilerArgs << "-Xlint:all" 
 }
